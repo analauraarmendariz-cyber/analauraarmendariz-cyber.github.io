@@ -1,0 +1,46 @@
+---
+title: "Ana Laura Armendáriz | Portafolio de Ciencia de Datos & Bioestadística"
+subtitle: "Microbióloga (Dra. en Cs. Biológicas) · Esp. en Biostadística y Bioinformatics"
+format:
+  html:
+    theme: cosmo
+    toc: false
+---
+
+## 👋 Sobre mí
+
+Soy Microbióloga y Doctora en Ciencias Biológicas, orientada al análisis de datos biomédicos, la bioestadística inferencial y el desarrollo de tableros interactivos para la toma de decisiones en salud pública y epidemiología.
+
+---
+
+## 📊 Proyectos & Dashboards Interactivos
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 🦟 Dashboard Epidemiológico de Dengue
+**Stack:** `R`, `Quarto`, `leaflet`, `sf`, `plotly`, `broom`
+
+Tablero interactivo para la vigilancia de la transmisión de Dengue en Argentina utilizando datos del SNVS. Incluye cartografía temática, normalización por tasas de incidencia (INDEC) y modelos de Regresión Logística Binomial ($OR$) para evaluación de factores de riesgo.
+
+👉 [**Ver Dashboard en Vivo**](https://analauraarmendariz-cyber.github.io/dashboard-dengue-argentina/){.btn .btn-primary role="button"}
+👉 [**Repositorio GitHub**](https://github.com/analauraarmendariz-cyber/dashboard-dengue-argentina){.btn .btn-outline-secondary role="button"}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 🫁 Dashboard de Cáncer de Pulmón
+**Stack:** `R`, `Quarto`, `tidyverse`, `plotly`, `DT`
+
+Análisis exploratorio e inferencial sobre la caracterización clínica, factores de exposición (tabaquismo/ambiente) y distribución histológica en pacientes con cáncer de pulmón.
+
+👉 [**Ver Dashboard en Vivo**](https://analauraarmendariz-cyber.github.io/dashboard-cancer-pulmon/){.btn .btn-primary role="button"}
+👉 [**Repositorio GitHub**](https://github.com/analauraarmendariz-cyber/dashboard-cancer-pulmon){.btn .btn-outline-secondary role="button"}
+:::
+
+:::
+
+---
+
+## 📬 Contacto
+* 💼 **LinkedIn:**[www.linkedin.com/in/ana-laura-armendariz-12499148](#)
+* 🐙 **GitHub:** [analauraarmendariz-cyber](https://github.com/analauraarmendariz-cyber)
